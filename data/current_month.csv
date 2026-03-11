@@ -1,1 +1,6 @@
-Add current month dataset
+date,channel,impressions,clicks,spend,sessions,conversions,revenue
+2026-01-01,paid_social,15000,720,450,610,48,1920
+2026-01-02,paid_search,20000,1100,900,980,85,5100
+2026-01-03,organic,25000,0,0,1600,92,0
+2026-01-04,email,8000,420,80,390,64,2800
+2026-01-05,referral,6000,250,40,210,22,950
